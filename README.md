@@ -29,4 +29,4 @@ O Chatbot com IA - Gemini é uma aplicação que permite aos usuários interagir
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu_usuario/seu_projeto.git
+   [git clone https://github.com/seu_usuario/seu_projeto.git](https://github.com/vitorvargem27/chatbotWithAI.git)
