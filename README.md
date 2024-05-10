@@ -1,6 +1,6 @@
 # Chatbot com integração ao Gemini
 
-Este é um projeto de chatbot com integração de inteligência artificial, desenvolvido em Python utilizando PyQt5 para a interface gráfica e SpeechRecognition para transcrição de áudio, entre outras bibliotecas.
+Este é um projeto de chatbot com integração de inteligência artificial, desenvolvido em Python utilizando PyQt5 para a interface gráfica e SpeechRecognition para transcrição de áudio, entre outras bibliotecas e também integração ao Generative Google AI, com a API do Google AI Studio.
 
 ## Descrição
 
