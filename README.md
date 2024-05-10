@@ -47,7 +47,7 @@ O Chatbot com IA - Gemini é uma aplicação que permite aos usuários interagir
 
 5. Utilização :
    ```
-   Execute o arquivo main.py para iniciar a aplicação.
+   Execute o arquivo chatbot-with-IA.py para iniciar a aplicação.
    ```
 
 ## Contribuição:
