@@ -29,4 +29,24 @@ O Chatbot com IA - Gemini é uma aplicação que permite aos usuários interagir
 
 1. Clone o repositório:
    ```bash
-   [git clone https://github.com/seu_usuario/seu_projeto.git](https://github.com/vitorvargem27/chatbotWithAI.git)
+   git clone https://github.com/seu_usuario/seu_projeto.git](https://github.com/vitorvargem27/chatbotWithAI.git)
+
+2. Instale as dependências:
+   ```bash
+   pip install SpeechRecognition
+   pip install PyQt5
+   pip install pyttsx3
+   pip install pillow
+   pip install pytesseract
+   pip install google.generativeai
+
+3. Configure sua API Key do Google Generative AI :
+   ```
+   key = 'SUA_API_KEY_AQUI'
+   ```
+
+5. Utilização :
+   ```
+   Execute o arquivo main.py para iniciar a aplicação.
+   ```
+   
